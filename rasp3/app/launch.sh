@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # Path to your virtual environment
-VENV_DIR="./.venv"
+VENV_DIR="/home/patrick/Desktop/elektronische_systemen/.venv"
+MAIN_PY="/home/patrick/Desktop/elektronische_systemen/main.py"
 
 # Check if virtual environment exists
 if [ ! -d "$VENV_DIR" ]; then
@@ -13,7 +14,7 @@ fi
 source "$VENV_DIR/bin/activate"
 
 # Run the main.py script
-python main.py
+python "$MAIN_PY"
 
 # Deactivate the virtual environment after running the script
 deactivate

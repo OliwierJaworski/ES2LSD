@@ -1,0 +1,11 @@
+[Unit]
+Description=Script which runs a python application which sends agriculture sensor data to loxone server
+After=network.target
+
+[Service]
+ExecStart=/home/patrick/Desktop/elektronische_systemen/launch.sh
+User=patrick
+Environment="PATH=/home/patrick/Desktop/elektronische_systemen/.venv/bin:$PATH"
+
+[Install]
+WantedBy=default.target
