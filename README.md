@@ -117,6 +117,10 @@ SQ-100 datasheet - [SQ-100-300-manual.pdf](SQ-100-300-manual.pdf)
 
 Watermark 200ss - [bodemsensor.pdf](bodemsensor.pdf)
 
+Raspberry datasheet - [raspberry.pdf](raspberry.pdf)
+
+esp32 datasheet - [esp32_datasheet_en.pdf](esp32_datasheet_en.pdf)
+
 
 
 
