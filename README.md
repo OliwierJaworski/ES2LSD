@@ -113,5 +113,11 @@ Sparkfun FTDI basic board datasheet - [DEV-09873_Web.pdf](DEV-09873_Web.pdf)
 
 PT1000 datasheet - https://www.alldatasheet.com/html-pdf/1491698/IVO/PT1000/129/2/PT1000.html
 
+SQ-100 datasheet - [SQ-100-300-manual.pdf](SQ-100-300-manual.pdf)
+
+Watermark 200ss - [bodemsensor.pdf](bodemsensor.pdf)
+
+
+
 
 
