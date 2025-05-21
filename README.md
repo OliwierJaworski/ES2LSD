@@ -109,4 +109,9 @@ Het eindresultaat is een betrouwbaar, automatisch werkend meetsysteem op basis v
 
 Uitgebreid verslag in .pdf - [Project_sensordata.pdf](Project_sensordata.pdf)
 
-Sparkfun FTDI basic board - [DEV-09873_Web.pdf](DEV-09873_Web.pdf)
+Sparkfun FTDI basic board datasheet - [DEV-09873_Web.pdf](DEV-09873_Web.pdf)
+
+PT1000 datasheet - [PT1000](DEV-09873_Web.pdf](https://www.alldatasheet.com/html-pdf/1491698/IVO/PT1000/129/2/PT1000.html))
+
+
+
