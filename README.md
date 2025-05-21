@@ -10,7 +10,7 @@
 - Gebruiksscenario
 - Onderzoek naar compact alternatief
 - Conclusie
-
+- Bijlagen
 ---
 
 ## Gebruikte sensoren
@@ -105,7 +105,7 @@ Een poging werd gedaan om het systeem compacter te maken met een **SparkFun sens
 Het eindresultaat is een betrouwbaar, automatisch werkend meetsysteem op basis van een Libelium Waspmote en Raspberry Pi. Sensorwaarden worden via USB ingelezen en doorgestuurd naar een Loxone Mini-Server. Na testen van alternatieve hardware (SparkFun, ESP32) en behuizingen werd een professionele, herbruikte Meshlium-behuizing gekozen die voldoet aan alle eisen. Het systeem is klaar voor gebruik in een smart agriculture context.
 
 
-
+## Bijlagen
 
 Uitgebreid verslag in .pdf - [Project_sensordata.pdf](Project_sensordata.pdf)
 
